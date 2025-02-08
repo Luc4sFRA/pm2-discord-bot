@@ -62,7 +62,7 @@ Exemple de `config.json` :
 |-----------------------------------|---------------------------------------------------|-----------------------------|
 | `/pm2-list`                      | Lister tous les processus                        | Buyers, Owners, Whitelist  |
 | `/pm2-lockprocess <id-pm2>`      | Verrouiller un processus PM2                     | Buyers                     |
-| `/pm2-logs <id-salon>`           | Définir le salon de logs PM2                     | Buyers, Owners, Whitelist  |
+| `/pm2-logs <id-salon>`           | Définir le salon de logs PM2                     | Buyers, Owners              |
 | `/pm2-owner add <user>`          | Ajouter un owner                                 | Buyers                     |
 | `/pm2-owner remove <user>`       | Retirer un owner                                 | Buyers                     |
 | `/pm2-owner list`                | Lister les owners                               | Buyers                     |
