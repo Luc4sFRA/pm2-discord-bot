@@ -26,7 +26,7 @@ Un bot Discord permettant de gérer et superviser vos processus PM2 via des comm
 
 1. **Cloner le dépôt**
    ```bash
-   git clone https://github.com/ton-utilisateur/pm2-discord-bot.git
+   git clone https://github.com/Luc4sFRA/pm2-discord-bot.git
    cd pm2-discord-bot
    ```
 
