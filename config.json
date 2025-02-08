@@ -1,0 +1,7 @@
+{
+    "token": "VOTRE_TOKEN",
+    "clientId": "ID_DU_BOT",
+    "buyers": ["ID_OWNERS","ID_OWNERS2"],
+    "color": "#030a2e"
+  }
+  
